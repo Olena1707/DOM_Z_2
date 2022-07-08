@@ -6,7 +6,7 @@ name = "John";
 admin = "John";
 alert(admin);*/
 
-/*let earth;
+/*let earthName;
 let currentUserName;*/
 
 let task3 = "10" + 10;
